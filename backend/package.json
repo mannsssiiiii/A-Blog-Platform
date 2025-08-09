@@ -1,12 +1,12 @@
 {
-  "name": "blog",
-  "version": "2.13.0",
+  "name": "myblog",
+  "version": "2.22.0",
   "description": "multi-user blog application with mern",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Prashant0664",
+  "author": "Mansi",
   "license": "MIT",
   "dependencies": {
     "@react-oauth/google": "^0.12.1",
